@@ -1,28 +1,37 @@
-# Python Fundamentals | FIAP
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/plysakovski/Plysakovski/main/assets/readme/hero-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/plysakovski/Plysakovski/main/assets/readme/hero-light.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/plysakovski/Plysakovski/main/assets/readme/hero-dark.svg" alt="Pedro Lysakovski — estudos de programação" />
+</picture>
 
-[![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![FIAP](https://img.shields.io/badge/FIAP-Inteligência%20Artificial-ED145B?style=for-the-badge)](https://www.fiap.com.br/)
-[![Status](https://img.shields.io/badge/status-em%20evolução-2EA44F?style=for-the-badge)](#roadmap-de-aprendizado)
+<h1 align="center">Fundamentos de Python | FIAP</h1>
 
-Esta seção reúne exercícios e práticas de Python desenvolvidos durante minha graduação em **Inteligência Artificial na FIAP**.
+<p align="center">
+  Esta seção reúne exercícios e práticas de Python desenvolvidos durante minha graduação em Inteligência Artificial na FIAP.<br>
+  Um registro contínuo de aprendizado, raciocínio lógico e resolução de problemas.
+</p>
 
-O objetivo é documentar minha evolução em Python de forma clara e organizada, consolidando fundamentos de programação que servirão de base para automação, análise de dados e soluções de Inteligência Artificial.
+<p align="center">
+  <a href="https://www.python.org/"><img alt="Python 3" src="https://img.shields.io/badge/PYTHON-8B5CF6?style=for-the-badge&amp;logo=python&amp;logoColor=white"></a>
+  <a href="https://www.fiap.com.br/"><img alt="FIAP — Inteligência Artificial" src="https://img.shields.io/badge/FIAP-Inteligência_Artificial-A78BFA?style=for-the-badge&amp;logoColor=09080D"></a>
+  <a href="#roadmap-de-aprendizado"><img alt="Em evolução" src="https://img.shields.io/badge/STATUS-EM_EVOLUÇÃO-F6C85F?style=for-the-badge&amp;logoColor=09080D"></a>
+</p>
 
-## Sobre este repositório
+## Sobre esta pasta
 
-Mais do que uma coleção de códigos, esta pasta funciona como um registro contínuo de aprendizado. Cada exercício representa a aplicação prática de um conceito estudado em aula, com foco no desenvolvimento de raciocínio lógico, resolução de problemas e escrita de código legível.
+Cada exercício aplica, na prática, um conceito estudado em aula. O foco está em consolidar fundamentos de programação, desenvolver raciocínio lógico, resolver problemas e escrever código legível.
 
 Os conteúdos estão divididos em duas áreas:
 
-- **`python/fundamentos/`** — exercícios curtos, organizados por tema, para praticar os principais conceitos da linguagem Python;
-- **`../projetos/`** — espaço destinado a aplicações mais completas, que integram diferentes conhecimentos e demonstram a evolução do aprendizado na prática. Cada projeto poderá ter sua própria documentação.
+- **`fundamentos/`** — exercícios curtos, organizados por tema, para praticar os principais conceitos de Python;
+- **`../projetos/`** — espaço geral para aplicações mais completas e projetos integradores, cada um com sua própria documentação.
 
-> Neste momento, a publicação está concentrada nos exercícios da pasta `python/fundamentos/`. A pasta geral de projetos será preenchida gradualmente, conforme cada aplicação estiver pronta para apresentação.
+> A publicação nesta seção está concentrada nos exercícios de fundamentos. Os projetos serão adicionados gradualmente, conforme estiverem prontos para apresentação.
 
 ## Conteúdos disponíveis
 
 | Tema | Conceitos praticados | Exercícios |
-| --- | --- | ---: |
+| :--- | :--- | :---: |
 | [Variáveis e entrada de dados](fundamentos/variaveis/) | Tipos numéricos, `input`, conversão de tipos, cálculos e saída de dados | 3 |
 | [Formatação de saída](fundamentos/formatacao_print/) | `print`, f-strings, `format` e formatação numérica | 3 |
 | [Estruturas condicionais](fundamentos/condicionais/) | Operadores relacionais e lógicos, `if`, `elif`, `else` e decisões encadeadas | 9 |
@@ -35,11 +44,11 @@ Entre os problemas resolvidos estão cálculo de média e velocidade, validaçã
 ```text
 python/
 |-- README.md
-|-- fundamentos/
+`-- fundamentos/
     |-- variaveis/
     |-- formatacao_print/
     |-- condicionais/
-    |-- repeticoes/
+    `-- repeticoes/
 ```
 
 ## Como executar
@@ -64,13 +73,13 @@ python/
    cd estudos-programacao
    ```
 
-3. Execute o exercício desejado. Por exemplo:
+3. Execute um exercício. Por exemplo:
 
    ```bash
    python python/fundamentos/repeticoes/tabuada.py
    ```
 
-   No Windows, o comando também pode ser:
+   No Windows, use também:
 
    ```powershell
    py python/fundamentos/repeticoes/tabuada.py
@@ -103,10 +112,14 @@ Este roadmap acompanha o avanço das aulas e será atualizado continuamente.
 
 ## Autor
 
-**Pedro Lysakovski** — Graduando em Inteligência Artificial pela FIAP
+**Pedro Lysakovski** — Graduando em Inteligência Artificial pela FIAP.
 
-[![GitHub](https://img.shields.io/badge/GitHub-plysakovski-181717?style=flat-square&logo=github)](https://github.com/plysakovski)
+<p align="center">
+  <a href="https://github.com/plysakovski">GitHub</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/plysakovski/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:plysakovski@gmail.com?subject=Contato%20via%20GitHub">E-mail</a>
+</p>
 
----
-
-Este repositório tem finalidade educacional e reflete um processo contínuo de aprendizado e aprimoramento.
+<img width="100%" src="https://raw.githubusercontent.com/plysakovski/Plysakovski/main/assets/readme/footer.svg" alt="Código que resolve. Interfaces que incluem." />
