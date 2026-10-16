@@ -25,6 +25,7 @@ Os exercícios desta seção estão organizados por área de estudo. Python e R 
 
 | Área | Conteúdo |
 | :--- | :--- |
+| [Fundamentos](fundamentos/) | Exercícios introdutórios organizados por tema e aula |
 | [Ciências de Dados](ciencia-de-dados/) | Exercícios de estatística descritiva e análise de dados com R |
 
 ## Estrutura desta pasta
@@ -32,11 +33,16 @@ Os exercícios desta seção estão organizados por área de estudo. Python e R 
 ```text
 R/
 |-- README.md
-`-- ciencia-de-dados/
+|-- ciencia-de-dados/
+|   |-- README.md
+|   `-- estatistica-descritiva/
+|       |-- README.md
+|       `-- rascunho_estatistica_descritiva.R
+`-- fundamentos/
     |-- README.md
-    `-- estatistica-descritiva/
+    `-- 01-introducao/
         |-- README.md
-        `-- rascunho_estatistica_descritiva.R
+        `-- exercícios introdutórios em R
 ```
 
 ## Como executar
