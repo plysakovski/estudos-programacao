@@ -32,7 +32,7 @@ STATUS      Em andamento
 
 | Pasta | Conteúdo |
 | :--- | :--- |
-| `python/` | Fundamentos, aulas e exercícios de Python |
+| [python/](python/README.md) | Fundamentos e exercícios de Python organizados por assunto |
 | `r/` | Aulas, exercícios e anotações de R |
 | `outras-linguagens/` | Estudos organizados por linguagem |
 | `projetos/` | Projetos práticos e integradores |

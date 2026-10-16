@@ -31,3 +31,5 @@ build/
 .idea/
 .DS_Store
 Thumbs.db
+*.pyd
+.Python
